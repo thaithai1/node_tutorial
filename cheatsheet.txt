@@ -1,0 +1,10 @@
+
+Install locally
+> npm i <package>
+
+Install global
+>npm install -g <package>
+
+package.json: store information about the project
+>npm init
+>npm init -y //everything defaut
